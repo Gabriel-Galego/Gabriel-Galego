@@ -50,5 +50,4 @@ Tenho 20 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, program
   
  <p dir="auto"><a href="https://www.instagram.com/biel_galego" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
 </a><a href="https://twitter.com/bielgalegoS" rel="nofollow"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/twitter.svg" style="max-width: 100%;">
-</a><a href="https://www.linkedin.com/in/gabriel-galego" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" style="max-width: 100%;">
-</a><a href="https://dev.to/jeniblo_dev" rel="nofollow"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/dev-badge.svg" style="max-width: 100%;"></a></p>
+</a><a href="https://www.linkedin.com/in/gabriel-galego-690710193" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" style="max-width: 100%;"></p>
