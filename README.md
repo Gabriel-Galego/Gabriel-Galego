@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Gabriel-Galego/Gabriel-Galego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +25,5 @@ Here are some ideas to get you started:
 
 # Hello, Devs!! 👋
 Tenho 20 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, programação 👨🏼‍💻 e games 🎮! Sou iniciante no universo da programação, quanto mais aprendo tecnologias novas, mais tenho um ataque cardiáco quando as coisas não funcionam, mas é isso que faz valer mais a pena quando você consegue solucionar o bug!
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
