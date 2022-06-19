@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </a>  
 
 # Hello, Devs!! 👋
-Tenho 20 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, programação 👨🏼‍💻 e games 🎮! Sou iniciante no universo da programação, quanto mais aprendo tecnologias novas mais tenho um ataque cardiáco quando as coisas não funcionam, mas é isso que faz valer mais a pena quando você consegue solucionar o bug!
+Tenho 20 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, programação 👨🏼‍💻 e games 🎮! Sou iniciante no universo da programação, quanto mais aprendo tecnologias novas, mais tenho um ataque cardiáco quando as coisas não funcionam, mas é isso que faz valer mais a pena quando você consegue solucionar o bug!
