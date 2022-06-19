@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 # Hello, Devs!! 👋
 Tenho 20 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, programação 👨🏼‍💻 e games 🎮! Sou iniciante no universo da programação, quanto mais aprendo tecnologias novas, mais tenho um ataque cardiáco quando as coisas não funcionam, mas é isso que faz valer mais a pena quando você consegue solucionar o bug!
 
-
-<img data-target="animated-image.replacedImage" class="AnimatedImagePlayer-animatedImage" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" style="width: 350px; display: block; opacity: 1; margin: auto;
-  display: block;">
-
+<div style="text-align: center;">
+<img data-target="animated-image.replacedImage" class="AnimatedImagePlayer-animatedImage" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" style="width: 350px; display: block; opacity: 1;">
+</div>
 
 
 ![Snake animation](https://github.com/Gabriel-Galego/Gabriel-Galego/blob/output/github-contribution-grid-snake.svg)
