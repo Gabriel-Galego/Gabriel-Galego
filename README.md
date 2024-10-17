@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gabriel-galego-690710193" rel="nofollow"><img width="80px"   src="https://cdn-icons-png.flaticon.com/128/1384/1384072.png" alt="linkedin" data-canonical-src="https://i.ibb.co/RyZx12b/linkedin.png" style="max-width: 100%;"></a>  
 
 # Hello, Devs!! 👋
-Tenho 22 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, programação 👨🏼‍💻 e games 🎮! Sou iniciante no universo da programação, e quanto mais aprendo tecnologias novas, mais tenho um ataque cardiáco quando as coisas não funcionam, mas é isso que faz valer mais a pena quando você consegue solucionar o bug!
+Tenho 23 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, programação 👨🏼‍💻 e games 🎮! Sou iniciante no universo da programação, e quanto mais aprendo tecnologias novas, mais tenho um ataque cardiáco quando as coisas não funcionam, mas é isso que faz valer mais a pena quando você consegue solucionar o bug!
 
 <p align="center" dir="auto">
 <img data-target="animated-image.replacedImage" class="AnimatedImagePlayer-animatedImage" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" style="width: 350px;"></p>
