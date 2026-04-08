@@ -40,13 +40,6 @@ Tenho 24 anos, moro em Maringá/PR e sou apaixonado por tecnologia 🖥, program
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Galego&layout=compact&langs_count=7&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Galego&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div><br><br>
-
-<div align="center">
-  
-![Snake animation](https://github.com/Gabriel-Galego/Gabriel-Galego/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<h2 dir="auto"></h2>
   
  <p dir="auto"><a href="https://www.instagram.com/biel_galego" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
 </a><a href="https://twitter.com/bielgalegoS" rel="nofollow"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/twitter.svg" style="max-width: 100%;">
