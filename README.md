@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Gabriel Galego
-<a href="https://www.instagram.com/biel_galego/" rel="nofollow"><img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/128/747/747562.png" alt="instagram" data-canonical-src="https://i.ibb.co/qkGSp1D/instagram.png" style="max-width: 100%;"></a> 
+<a href="https://www.instagram.com/gabriel_galegos/" rel="nofollow"><img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/128/747/747562.png" alt="instagram" data-canonical-src="https://i.ibb.co/qkGSp1D/instagram.png" style="max-width: 100%;"></a> 
 
 <a href="https://twitter.com/bielgalegoS" rel="nofollow"><img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/128/1384/1384075.png" alt="twitter" data-canonical-src="https://i.ibb.co/ZcFHDpv/twitter.png" style="max-width: 100%;"></a>
 
